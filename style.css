@@ -163,11 +163,13 @@ section{
     height: 80vh;
 }
 
+
 .section__pic-container{
     display: flex;
     height: 400px;
     width: 400px;
     margin: auto 0;
+    
 }
 
 .section__text{
@@ -274,6 +276,7 @@ section{
 }
 
 .about-pic {
+    overflow: auto;
     border-radius: 2rem;
 }
 
