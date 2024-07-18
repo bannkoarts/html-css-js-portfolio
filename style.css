@@ -423,3 +423,7 @@ footer{
 footer p {
     text-align: center;
 }
+
+.commentUpdate{
+    font-size: large;
+}
